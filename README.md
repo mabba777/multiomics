@@ -1,4 +1,4 @@
-# R miRna-mRna analysis  
+# multiOmics: an R package to infer genomics and epigenomics mechanisms involved with cancer progression
 
 ## required packages installation 
 
